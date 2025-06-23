@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 🎯 **Machine Learning Engineer** based in Kerala, India
-- 🔭 Currently building **[AstroBot — An Astrophysics RAG Chatbot](https://astrobot-mggc.onrender.com)**
+- 🔭 Currently building **[AstroBot — An Astrophysics RAG Chatbot](https://github.com/Bichu0077/Astrobot)**
 - 🌱 Passionate about AI, Machine Learning, and cutting-edge technology
 - 💡 Love solving complex problems with data-driven solutions
 - 📫 Reach me at: **bichudnarayan@gmail.com**
