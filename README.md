@@ -1,72 +1,73 @@
-# Hi there! 👋 I'm Bichu Devnarayan
+<h1 align="center">Hi there 👋, I'm <span style="color:#2196F3;">Bichu Devnarayan</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
+---
+
 ## 🚀 About Me
 
-- 🎯 **Machine Learning Engineer** based in Kerala, India
-- 🔭 Currently building **[AstroBot — An Astrophysics RAG Chatbot](https://github.com/Bichu0077/Astrobot)**
-- 🌱 Passionate about AI, Machine Learning, and cutting-edge technology
-- 💡 Love solving complex problems with data-driven solutions
-- 📫 Reach me at: **bichudnarayan@gmail.com**
+- 👨‍💻 **Machine Learning Engineer** from Kerala, India 🇮🇳  
+- 🔭 Currently working on: **[AstroBot — An Astrophysics RAG Chatbot](https://github.com/Bichu0077/Astrobot)**  
+- 🌱 Exploring the universe through AI, ML & LLMs  
+- 💡 Love crafting intelligent systems & solving real-world problems  
+- 📬 Reach me at: **bichudnarayan@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/-C-181717?style=flat&logo=c&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C++-181717?style=flat&logo=c%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-181717?style=flat&logo=java&logoColor=ED8B00)
+![PHP](https://img.shields.io/badge/-PHP-181717?style=flat&logo=php&logoColor=777BB4)
+![Rust](https://img.shields.io/badge/-Rust-181717?style=flat&logo=rust&logoColor=white)
 
-### 🤖 Machine Learning & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 🧠 Machine Learning & Data Science
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-181717?style=flat&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/-PyTorch-181717?style=flat&logo=pytorch&logoColor=EE4C2C)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-181717?style=flat&logo=scikit-learn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/-Pandas-181717?style=flat&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/-NumPy-181717?style=flat&logo=numpy&logoColor=013243)
 
 ### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/-React-181717?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-181717?style=flat&logo=redux&logoColor=764ABC)
+![Angular](https://img.shields.io/badge/-Angular-181717?style=flat&logo=angular&logoColor=DD0031)
+![HTML5](https://img.shields.io/badge/-HTML5-181717?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-181717?style=flat&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-181717?style=flat&logo=bootstrap&logoColor=563D7C)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-181717?style=flat&logo=tailwind-css&logoColor=38B2AC)
 
 ### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-181717?style=flat&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/-Express.js-181717?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-181717?style=flat&logo=django&logoColor=092E20)
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat&logo=mysql&logoColor=005C84)
+![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat&logo=mongodb&logoColor=47A248)
 
-### 🔧 Tools & Technologies
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🧰 Tools & Platforms
+![Docker](https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/-Linux-181717?style=flat&logo=linux&logoColor=FCC624)
+![Postman](https://img.shields.io/badge/-Postman-181717?style=flat&logo=postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/-Figma-181717?style=flat&logo=figma&logoColor=F24E1E)
 
 ---
 
-
 ## 🎯 Current Focus
 
-- 🔬 Building AI-powered applications with RAG (Retrieval-Augmented Generation)
-- 🌌 Exploring astrophysics through machine learning
-- 📈 Advancing skills in MLOps and model deployment
-- 🚀 Contributing to open-source AI projects
+- 🤖 Building AI-powered applications with **Retrieval-Augmented Generation (RAG)**
+- 🌌 Merging astrophysics + machine learning for smarter discovery
+- 🛠️ Leveling up in **MLOps** & scalable model deployment
+- 🌍 Contributing to impactful open-source AI projects
 
 ---
 
@@ -76,20 +77,20 @@
   <a href="mailto:bichudnarayan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/bichu-devnarayan-2b9b4b288/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://x.com/BichuDev_2005">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X/Twitter"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Bichu0077&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/YourGitHubUsername">Bichu Devnarayan</a></i>
+  <i>⭐️ From <a href="https://github.com/Bichu0077">Bichu Devnarayan</a></i>
 </p>
