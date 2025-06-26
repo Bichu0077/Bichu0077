@@ -6,16 +6,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 👨‍💻 **Machine Learning Engineer** from Kerala, India 🇮🇳  
-- 🔭 Currently working on: **[AstroBot — An Astrophysics RAG Chatbot](https://github.com/Bichu0077/Astrobot)**  
-- 🌱 Exploring the universe through AI, ML & LLMs  
-- 💡 Love crafting intelligent systems & solving real-world problems  
-- 📬 Reach me at: **bichudnarayan@gmail.com**
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -59,15 +49,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat&logo=linux&logoColor=FCC624)
 ![Postman](https://img.shields.io/badge/-Postman-181717?style=flat&logo=postman&logoColor=FF6C37)
 ![Figma](https://img.shields.io/badge/-Figma-181717?style=flat&logo=figma&logoColor=F24E1E)
-
----
-
-## 🎯 Current Focus
-
-- 🤖 Building AI-powered applications with **Retrieval-Augmented Generation (RAG)**
-- 🌌 Merging astrophysics + machine learning for smarter discovery
-- 🛠️ Leveling up in **MLOps** & scalable model deployment
-- 🌍 Contributing to impactful open-source AI projects
 
 ---
 
