@@ -1,6 +1,3 @@
-[![Football Banner](https://media.giphy.com/media/SportsManias-s9VlSIegcvBLyoA3am/giphy.gif)](https://yourwebsite.com)
-
-
 <h1 align="center">Hi there 👋, I'm <span style="color:#2196F3;">Bichu Devnarayan</span></h1>
 
 <p align="center">
