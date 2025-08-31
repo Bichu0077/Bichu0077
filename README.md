@@ -27,7 +27,7 @@ Experienced **Machine Learning Engineer** and **Full Stack Developer** specializ
 
 ## 👨‍💻 About Me
 
-I am a dedicated software engineer with a passion for leveraging technology to create meaningful impact. My journey encompasses both the theoretical foundations of machine learning and the practical aspects of full-stack development, enabling me to build comprehensive solutions from data processing to user interface.
+I am currently a 3rd year Btech CSE student at IIIT Kottayam ans a dedicated software engineer with a passion for leveraging technology to create meaningful impact. My journey encompasses both the theoretical foundations of machine learning and the practical aspects of full-stack development, enabling me to build comprehensive solutions from data processing to user interface.
 
 **What drives me:**
 - 🎯 Solving complex problems through innovative technology solutions
