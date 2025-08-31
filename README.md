@@ -12,15 +12,6 @@
 
 ---
 
-## 📋 Table of Contents
-- [🚀 Professional Summary](#-professional-summary)
-- [👨‍💻 About Me](#-about-me)
-- [🛠️ Technical Expertise](#️-technical-expertise)
-- [📊 GitHub Analytics](#-github-analytics)
-- [🤝 Let's Connect](#-lets-connect)
-
----
-
 ## 🚀 Professional Summary
 
 Experienced **Machine Learning Engineer** and **Full Stack Developer** specializing in building scalable, intelligent applications that solve real-world problems. With expertise spanning from AI/ML model development to comprehensive web application architecture, I deliver end-to-end solutions that bridge the gap between cutting-edge technology and practical business needs.
