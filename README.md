@@ -12,28 +12,9 @@
 
 ---
 
-## 🚀 Professional Summary
-
-Experienced **Machine Learning Engineer** and **Full Stack Developer** specializing in building scalable, intelligent applications that solve real-world problems. With expertise spanning from AI/ML model development to comprehensive web application architecture, I deliver end-to-end solutions that bridge the gap between cutting-edge technology and practical business needs.
-
-**Core Competencies:**
-- 🤖 Machine Learning & AI model development and deployment
-- 🌐 Full-stack web application development
-- 📊 Data science and analytics pipeline creation
-- ⚡ Performance optimization and scalable system design
-- 🔄 Agile development and continuous integration practices
-
----
-
 ## 👨‍💻 About Me
 
 I am currently a 3rd year Btech CSE student at IIIT Kottayam ans a dedicated software engineer with a passion for leveraging technology to create meaningful impact. My journey encompasses both the theoretical foundations of machine learning and the practical aspects of full-stack development, enabling me to build comprehensive solutions from data processing to user interface.
-
-**What drives me:**
-- 🎯 Solving complex problems through innovative technology solutions
-- 📈 Continuous learning and staying ahead of industry trends
-- 🤝 Collaborating with diverse teams to deliver exceptional results
-- 🌍 Contributing to projects that make a positive difference
 
 **Current Focus:**
 - Advancing expertise in modern AI/ML frameworks and methodologies
@@ -46,7 +27,15 @@ I am currently a 3rd year Btech CSE student at IIIT Kottayam ans a dedicated sof
 
 <div align="center">
 
-### Core Programming Languages
+### Development Tools & Platforms
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://camo.githubusercontent.com/7330205ef5ca5b6c63162e2e0f6245b13a03791da7600a826fc77d7aa15a83d6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -58,6 +47,7 @@ I am currently a 3rd year Btech CSE student at IIIT Kottayam ans a dedicated sof
 ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Ollama](https://camo.githubusercontent.com/8dbbb5d9f139c803cb4588df6c90f5c185914bbd8897b812c93dbc5975a17eab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f6c6c616d612d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f6c6c616d61266c6f676f436f6c6f723d7768697465)
 
 ### Frontend Technologies
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -73,13 +63,8 @@ I am currently a 3rd year Btech CSE student at IIIT Kottayam ans a dedicated sof
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://camo.githubusercontent.com/157fb250a4c850de1caa4a9112da44de759352a114486112a7176f8f9712e65f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53757061626173652d3345434638453f7374796c653d666f722d7468652d6261646765266c6f676f3d7375706162617365266c6f676f436f6c6f723d7768697465)
 
-### Development Tools & Platforms
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
