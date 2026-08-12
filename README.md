@@ -96,8 +96,8 @@ I'm a fourth-year B.Tech CSE student at IIIT Kottayam, working at the intersecti
 ## Contribution Arcade
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bichu0077/Bichu0077/output/pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bichu0077/Bichu0077/output/pacman.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bichu0077/Bichu0077/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bichu0077/Bichu0077/output/pacman-contribution-graph.svg" />
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bichu0077/Bichu0077/output/pacman.svg" />
 </picture>
 
