@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm <span style="color:#2196F3;">Bichu Devnarayan</span> 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:6DD5FA&height=220&section=header&text=Bichu%20Devnarayan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
 
 <p align="center">
   <a href="https://github.com/Bichu0077">
@@ -7,116 +7,107 @@
 </p>
 
 <p align="center">
-  <em>Transforming ideas into intelligent solutions through code and innovation</em>
+  <a href="mailto:bichudnarayan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bichu-devnarayan-2b9b4b288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/BichuDev_2005"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## About Me
 
-I am currently a 3rd year Btech CSE student at IIIT Kottayam ans a dedicated software engineer with a passion for leveraging technology to create meaningful impact. My journey encompasses both the theoretical foundations of machine learning and the practical aspects of full-stack development, enabling me to build comprehensive solutions from data processing to user interface.
+I'm a Fourth-year B.Tech CSE student at IIIT Kottayam, working at the intersection of machine learning and full-stack development. I like building things end to end — from data pipelines and model training to the interfaces people actually use.
 
-**Current Focus:**
-- Advancing expertise in modern AI/ML frameworks and methodologies
-- Developing scalable web applications with optimal user experiences
-- Contributing to open-source projects and the developer community
+**Currently focused on:**
+- Deepening my knowledge of modern AI/ML frameworks and methodologies
+- Building scalable, well-designed web applications
+- Contributing to open-source projects
 
+<br/>
 
+## Technical Toolkit
 
-## 🛠️ Technical Expertise
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+</p>
 
-<div align="center">
+**Machine Learning & Data**
+<p>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+</p>
 
-### Development Tools & Platforms
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://camo.githubusercontent.com/7330205ef5ca5b6c63162e2e0f6245b13a03791da7600a826fc77d7aa15a83d6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</p>
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+</p>
 
-### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Ollama](https://camo.githubusercontent.com/8dbbb5d9f139c803cb4588df6c90f5c185914bbd8897b812c93dbc5975a17eab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f6c6c616d612d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f6c6c616d61266c6f676f436f6c6f723d7768697465)
+**Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
 
-### Frontend Technologies
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br/>
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://camo.githubusercontent.com/157fb250a4c850de1caa4a9112da44de759352a114486112a7176f8f9712e65f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53757061626173652d3345434638453f7374796c653d666f722d7468652d6261646765266c6f676f3d7375706162617365266c6f676f436f6c6f723d7768697465)
+## GitHub Stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bichu0077&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bichu0077&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bichu0077&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
 
-### 🎯 Specialized Skills
-- **Machine Learning**: Model development, training, and deployment for classification, regression, and NLP tasks
-- **Data Engineering**: ETL pipelines, data preprocessing, and feature engineering
-- **Web Development**: Responsive design, RESTful APIs, and modern JavaScript frameworks
-- **DevOps**: Containerization, CI/CD pipelines, and cloud deployment strategies
-- **Software Architecture**: Microservices design, system scalability, and performance optimization
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bichu0077&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
-## 📊 GitHub Analytics
+<br/>
 
-<div align="center">
-  
-### Development Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=Bichu0077&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bichu0077&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+## Contribution Snake
 
-### Contribution Activity
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bichu0077&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bichu0077/Bichu0077/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bichu0077/Bichu0077/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Bichu0077/Bichu0077/output/github-contribution-grid-snake.svg" />
+</picture>
 
-</div>
+<br/>
+<br/>
 
----
+<p align="center"><em>"Innovation distinguishes between a leader and a follower." — Steve Jobs</em></p>
 
-## 🤝 Let's Connect
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bichu0077&color=2196F3&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
-<div align="center">
-
-I'm always open to discussing new opportunities, innovative projects, or potential collaborations. Whether you're interested in machine learning solutions, full-stack development, or just want to connect with a fellow tech enthusiast, I'd love to hear from you!
-
-### 📱 Contact Information
-
-<a href="mailto:bichudnarayan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/bichu-devnarayan-2b9b4b288/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://x.com/BichuDev_2005">
-  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
-</a>
-
-### 📈 Profile Engagement
-
-<img src="https://komarev.com/ghpvc/?username=Bichu0077&color=2196F3&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-
-</div>
-
----
-
-<div align="center">
-  <h3>💡 "Innovation distinguishes between a leader and a follower." - Steve Jobs</h3>
-  <p><em>Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.</em></p>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2196F3&height=120&section=footer"/>
