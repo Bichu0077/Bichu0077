@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a third-year B.Tech CSE student at IIIT Kottayam, working at the intersection of machine learning and full-stack development. I like building things end to end — from data pipelines and model training to the interfaces people actually use.
+I'm a fourth-year B.Tech CSE student at IIIT Kottayam, working at the intersection of machine learning and full-stack development. I like building things end to end — from data pipelines and model training to the interfaces people actually use.
 
 **Currently focused on:**
 - Deepening my knowledge of modern AI/ML frameworks and methodologies
@@ -85,10 +85,6 @@ I'm a third-year B.Tech CSE student at IIIT Kottayam, working at the intersectio
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bichu0077&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bichu0077&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
 <p align="center">
