@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a Fourth-year B.Tech CSE student at IIIT Kottayam, working at the intersection of machine learning and full-stack development. I like building things end to end — from data pipelines and model training to the interfaces people actually use.
+I'm a third-year B.Tech CSE student at IIIT Kottayam, working at the intersection of machine learning and full-stack development. I like building things end to end — from data pipelines and model training to the interfaces people actually use.
 
 **Currently focused on:**
 - Deepening my knowledge of modern AI/ML frameworks and methodologies
@@ -79,8 +79,8 @@ I'm a Fourth-year B.Tech CSE student at IIIT Kottayam, working at the intersecti
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bichu0077&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bichu0077&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bichu0077&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bichu0077&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -88,17 +88,21 @@ I'm a Fourth-year B.Tech CSE student at IIIT Kottayam, working at the intersecti
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bichu0077&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bichu0077&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bichu0077&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 <br/>
 
-## Contribution Snake
+## Contribution Arcade
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bichu0077/Bichu0077/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bichu0077/Bichu0077/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Bichu0077/Bichu0077/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bichu0077/Bichu0077/output/pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bichu0077/Bichu0077/output/pacman.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bichu0077/Bichu0077/output/pacman.svg" />
 </picture>
 
 <br/>
